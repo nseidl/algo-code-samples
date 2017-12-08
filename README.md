@@ -1,5 +1,5 @@
 # algo-code-samples
-## Code available upon request.
+
 ###### Coding samples from Algorithms & Data Structures class assignments.
 
 #### Class is focused on understanding Algorithms and Data Structures.
